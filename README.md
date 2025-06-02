@@ -22,12 +22,7 @@ This machine learning project aims to identify fraudulent credit card transactio
 
 > 📥 **To use this notebook**, download `creditcard.csv` from Kaggle and place it in the following folder:
 
-project-root/
-├── Anamoly detection.ipynb
-├── README.md
-└── data/
-└── creditcard.csv
-
+<pre lang="markdown"> ## 📁 Project Structure ``` project-root/ ├── Anamoly detection.ipynb # Main Jupyter notebook ├── README.md # Project documentation └── data/ └── creditcard.csv # Dataset file (downloaded manually) ``` </pre>
 
 
 ---
