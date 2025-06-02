@@ -20,10 +20,7 @@ This machine learning project aims to identify fraudulent credit card transactio
 - **Features**: 30 columns (PCA components: V1–V28, plus `Time`, `Amount`)
 - **Target**: `Class` — `0` (legit), `1` (fraud)
 
-> 📥 **To use this notebook**, download `creditcard.csv` from Kaggle and place it in the following folder:
-
-<pre lang="markdown"> ## 📁 Project Structure ``` project-root/ ├── Anamoly detection.ipynb # Main Jupyter notebook ├── README.md # Project documentation └── data/ └── creditcard.csv # Dataset file (downloaded manually) ``` </pre>
-
+> 📥 **To use this notebook**, download `creditcard.csv` from Kaggle and place it in a folder named `data/` located in the same directory as the notebook.
 
 ---
 
