@@ -74,5 +74,5 @@ This machine learning project aims to identify fraudulent credit card transactio
 
 Ravishanker Gandigudi  
 Master's in Computer Science, Stevens Institute of Technology  
-[LinkedIn](https://www.linkedin.com/in/ravishanker-gandigudi/) | [GitHub](https://github.com/)
+[LinkedIn](https://www.linkedin.com/in/ravishanker-gandigudi/) 
 
